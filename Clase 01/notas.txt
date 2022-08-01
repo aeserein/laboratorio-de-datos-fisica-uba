@@ -1,0 +1,56 @@
+Temas
+	Ciencia de datos
+	El curso
+
+Qué es la ciencia de datos
+	A - Conocimiento en matemáticas y algoritmos
+	B - Programar
+	C - Saber sobre un problema
+
+	A + B = Machine learning
+	B + C = Soluciones malas o no escalables
+	C + A = Ciencia traidicional
+	A + B + C = Ciencia de datos
+
+	También útil saber comunicar algo con los datos que se hace
+
+	Aparece recientemente por el poder computacional moderno y la disponibilidad de los datos
+		Demasiados datos, de hecho
+			Por eso hay que darle sentido a la cantidad abrumadora de datos
+
+	Busca responder preguntas no solamente prácticas sobre situaciones reales, sino también teóricas
+
+Qué se ve en el curso
+	Aspectos prácticos de la ciencia de datos
+	Desarrollar intuiciones sobre qué preguntas se pueden responder con datos, y cómo conseguirlos
+	El proceso de plantear una pregunta, agarrar datos que sirven pra responderla, evaluar los datos,
+	  generar visualizaciones y generar un reporte con lo que se descubrió para responder la preugnta
+	Actitud crítica, escepticismo y aprender y equivocarse mediante la práctica
+
+Qué no se ve en el curso
+	Probabilidad y estadísticas como materia formal
+	Machine learning desde un punto de vista formal o matemático
+	Deep learning en general
+	Temas de big data
+
+Pasos
+	1 - Identificar un problema y entender cómo resolverlo con datos
+		Hablar con especialistas
+		Entender qué se sabe y qué no
+		Conocer los límites de recursos (guita y tiempo)
+		Si la respuesta ya fue preguntada y ya fue respondida
+	2 - Conseguir los datos
+		O simularlos si no existen
+		De dónde sacarlos
+		Qué fuentes de datos hay
+		Qué datos ya hay recopilados
+		Qué tan útiles son los datos
+	3 - Explorar los datos, desarrollar modelos
+		Explorar con alguna dirección
+		Considerar si hay hipótesis
+		Qué variables son útiles y qué variables no, y qué variables nos faltan
+		Qué implica averiguar datos
+	4 - Visualizar y comunicar resultados
+		Que los datos sean útiles para las personas que buscan una solución
+		Que los gráficos sean bonitos
+		Cuestiones de manipulación e intereses
