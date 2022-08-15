@@ -1,7 +1,7 @@
 import os
 os.system("clear")
 
-print("Un dataframes de panda es a un diccionario lo que numpy es a una matriz nativa de python")
+print("Un dataframe de panda es a un diccionario lo que numpy es a una matriz nativa de python")
 print("Es lo mismo en la base pero tiene funcionalidad extra")
 print("Tiene keys que contienen listas")
 print("Es una tabla donde las listas de cada key tienen que ser de la misma longitud")
